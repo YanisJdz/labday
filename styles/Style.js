@@ -8,5 +8,14 @@ export default StyleSheet.create({
     },
     tabColor: {
         color:'red'
+    },
+    test: {
+        backgroundColor: 'blue'
+    },
+    test2:{
+        color:'#9067C6'
+    },
+    container: {
+        backgroundColor: '#F7ECE1'
     }
 })
